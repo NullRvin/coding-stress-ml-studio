@@ -1,0 +1,4 @@
+,Actual (y_test),Pred Random Forest,Pred SVM,Pred XGBoost
+Low,197,194,220,195
+Medium,436,444,389,436
+High,213,208,237,215

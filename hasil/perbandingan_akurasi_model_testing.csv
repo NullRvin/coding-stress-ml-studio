@@ -1,0 +1,4 @@
+Algoritma,Akurasi (%),Akurasi Presisi Tinggi (%)
+SVM,75.77,75.76832151300236
+Random Forest,75.18,75.177304964539
+XGBoost,74.47,74.46808510638297

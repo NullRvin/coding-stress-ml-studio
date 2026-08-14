@@ -1,0 +1,4 @@
+Pasangan Kelas,Bias (b),Jumlah Support Vector
+Low vs Medium,-0.817951482011712,633 (Low) + 1314 (Medium)
+Low vs High,0.03294124124479602,633 (Low) + 683 (High)
+Medium vs High,0.6942156997694423,1314 (Medium) + 683 (High)

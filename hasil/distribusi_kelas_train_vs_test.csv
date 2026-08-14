@@ -1,0 +1,7 @@
+Kelas,Jumlah,Subset
+Low,805,Training
+Medium,1725,Training
+High,867,Training
+Low,197,Testing
+Medium,436,Testing
+High,213,Testing

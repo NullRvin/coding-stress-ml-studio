@@ -1,0 +1,4 @@
+Algoritma,Gap Accuracy (poin%),Kesimpulan
+Random Forest,24.8227,"INDIKASI OVERFITTING, model terlalu hafal data training."
+SVM (RBF),10.5892,"sedikit indikasi overfitting, masih dalam batas wajar."
+XGBoost,22.73,"INDIKASI OVERFITTING, model terlalu hafal data training."

@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+Low,1.0,1.0,1.0,1725.0
+Medium,1.0,1.0,1.0,1725.0
+High,1.0,1.0,1.0,1725.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,5175.0
+weighted avg,1.0,1.0,1.0,5175.0

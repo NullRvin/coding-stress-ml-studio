@@ -1,0 +1,3 @@
+Dataset,Accuracy (%),Precision Macro (%),Recall Macro (%),F1-Score Macro (%)
+Training,86.3575,86.1985,86.3575,86.2206
+Testing,75.7683,74.8243,77.4955,75.9282

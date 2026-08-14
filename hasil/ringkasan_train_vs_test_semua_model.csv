@@ -1,0 +1,4 @@
+Algoritma,Accuracy Train (%),Accuracy Test (%),Precision Train (%),Precision Test (%),Recall Train (%),Recall Test (%),F1 Train (%),F1 Test (%),Gap Accuracy (poin%)
+Random Forest,100.0,75.1773,100.0,75.0295,100.0,74.5213,100.0,74.7684,24.8227
+SVM (RBF),86.3575,75.7683,86.1985,74.8243,86.3575,77.4955,86.2206,75.9282,10.5892
+XGBoost,97.1981,74.4681,97.1945,74.2039,97.1981,74.1808,97.1905,74.1911,22.73
